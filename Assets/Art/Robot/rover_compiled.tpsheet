@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3e5585d2697ca23726b8c5bf15ad6908:fcc7bfe4ad9186fd269aeb99438347e8:55ea8dbf7d4ceff9c24c7eebd08468c8$
+#
+:format=40300
+:texture=rover_compiled.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Rover_down;0;224;128;32; 0.5;0.5; 0;0;0;0
+Rover_down_left;0;192;128;32; 0.5;0.5; 0;0;0;0
+Rover_down_right;0;160;128;32; 0.5;0.5; 0;0;0;0
+Rover_front;0;128;128;32; 0.5;0.5; 0;0;0;0
+Rover_left;0;96;128;32; 0.5;0.5; 0;0;0;0
+Rover_right;0;64;128;32; 0.5;0.5; 0;0;0;0
+Rover_up_left;0;32;128;32; 0.5;0.5; 0;0;0;0
+Rover_up_right;0;0;128;32; 0.5;0.5; 0;0;0;0
